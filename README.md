@@ -1,4 +1,4 @@
-
+# Battle-Script
 **Battle Script: A Command Line Scripted Game**
 
 Language: Python3
@@ -70,6 +70,3 @@ _See the Screenshots of the  Command Line
 ![alt text](images/3.png)
 ![alt text](images/4.png)
 ![alt text](images/5.png)
-!
-
-# Battle-Script
